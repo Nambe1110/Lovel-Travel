@@ -118,7 +118,7 @@
 /* >= Tablet */
 @media (min-width: 740px) and (max-width: 1023px) {
     .header {
-        background-color: black;
+        background-color: rgba(221, 186, 221, 0.9);
     }
 
 
@@ -365,7 +365,7 @@
 
 @media (max-width: 740px)  {
     .header {
-        background-color: black;
+        background-color: rgba(221, 186, 221, 0.9);
     }
 
     .container__beaches-book-btn a {
@@ -384,7 +384,7 @@
 /* Tablet-PC low resolutiom */
 @media (min-width: 740px) and (max-width: 1023px) {
     .header {
-        background-color: black;
+        background-color: rgba (221, 186, 221, 0.9);
     }
     
     .wide {
